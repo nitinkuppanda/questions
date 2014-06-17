@@ -1,3 +1,4 @@
+# TEST THIS STUFF
 for filename in $*
 do
 	echo $filename
